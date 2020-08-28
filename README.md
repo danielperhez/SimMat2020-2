@@ -31,3 +31,5 @@ Este curso consiste de tres módulos.
    4. Modelo del rendimiento de una cuenta de ahorro
 
 Prueba de la clase del día 26/08/2020
+
+Agregar una línea para realizar un cambio en este repositorio
